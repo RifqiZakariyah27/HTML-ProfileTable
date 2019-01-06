@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head >
+        <title>Biodata</title>
+        <center><font face="times new roman" size="12">BIODATA</font></center>
+    </head>
+    <body>
+        <br>
+        <table border align="center">
+            <tr>
+                <td align="center">Nama     : </td>
+                <td>Muhammad Rifqi Zakariyah</td>
+            </tr>
+            <tr>
+                <td align="center">TTL      : </td>
+                <td>15 Agustus 2002</td>
+            </tr>
+            <tr>
+                
+                <td align="center">Alamat       : </td>
+                <td>Jl. Bareng Kartini 3D/255, Malang</td>
+                
+            </tr>
+            <tr align="center">
+                <td>Foto</td>
+                <td><img src="DSC_0143.JPG" alt="DSC_0143.jpg"
+                    width=180px height=100px></td>
+            </tr>
+        </table>
+    </body>
+</html>
